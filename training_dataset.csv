@@ -1,0 +1,1001 @@
+instruction,intent,instruction_hi,intent_hi
+question about cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+i have a question about cancelling oorder {{Order Number}},cancel_order,मेरे पास oorder {{ऑर्डर नंबर}} रद्द करने के बारे में एक प्रश्न है,आदेश रद्द
+i need help cancelling puchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I need to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने की आवश्यकता है {{ऑर्डर नंबर}}},आदेश रद्द
+"I cannot afford this order, cancel purchase {{Order Number}}",cancel_order,"मैं इस आदेश को बर्दाश्त नहीं कर सकता, खरीदें {{ऑर्डर नंबर}}",आदेश रद्द
+can you help me cancel order {{Order Number}}?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+"I can no longer afford order {{Order Number}}, cancel it",cancel_order,"मैं अब आदेश {{ऑर्डर नंबर}} को बर्दाश्त नहीं कर सकता, इसे रद्द करें",आदेश रद्द
+I am trying to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की कोशिश कर रहा हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I have got to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए मिला है {{ऑर्डर नंबर}}},आदेश रद्द
+i need help canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+i dont know what to do to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर को रद्द करने के लिए क्या करना है {{ऑर्डर नंबर}},आदेश रद्द
+I have a problem with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+problem with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+can you help me canceling order {{Order Number}}?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+help  me canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+can you help me cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+what do I have to do to cancel purchase {{Order Number}}?,cancel_order,खरीद को रद्द करने के लिए मुझे क्या करना होगा {{ऑर्डर नंबर}}?,आदेश रद्द
+"I bought the same item twice, cancel order {{Order Number}}",cancel_order,"मैंने एक ही आइटम को दो बार खरीदा, ऑर्डर रद्द करें {{ऑर्डर नंबर}}}",आदेश रद्द
+need help with canceling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ मदद की आवश्यकता है {{आदेश संख्या}}},आदेश रद्द
+i want assistance canceling order {{Order Number}},cancel_order,मैं सहायता रद्द करने के आदेश को रद्द करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I'm trying to cancel order {{Order Number}},cancel_order,मैं ऑर्डर {{ऑर्डर नंबर}} को रद्द करने का प्रयास कर रहा हूं,आदेश रद्द
+i have problems with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने की समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+assistance with cancelling pucrhase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+need help with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ मदद की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+help cnceling order {{Order Number}},cancel_order,ऑर्डर रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+i want assistance cancelling order {{Order Number}},cancel_order,मैं सहायता रद्द करने के आदेश को रद्द करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+need assistance cancelling order {{Order Number}},cancel_order,सहायता रद्द करने की आवश्यकता है आदेश {{आदेश संख्या}},आदेश रद्द
+problem with cancelling order {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+assistnace cancelling order {{Order Number}},cancel_order,सहायता रद्द करने का आदेश {{ऑर्डर नंबर}},आदेश रद्द
+have a problem with canceling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ एक समस्या है {{आदेश संख्या}},आदेश रद्द
+i need help with canceling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+assistance with cancelling pucrhase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+want assistance to cancel order  {{Order Number}},cancel_order,आदेश रद्द करने के लिए सहायता चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+i do not know how i can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद को रद्द कर सकता हूं {{ऑर्डर नंबर}},आदेश रद्द
+need assistance to cancel order {{Order Number}},cancel_order,आदेश को रद्द करने के लिए सहायता की आवश्यकता है {{आदेश संख्या}},आदेश रद्द
+can you help me cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+I can no longer afford purchase {{Order Number}},cancel_order,मैं अब खरीदारी नहीं कर सकता {{ऑर्डर नंबर}}},आदेश रद्द
+i need assistance canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I would like to cancel purchase {{Order Number}},cancel_order,मैं खरीद {{ऑर्डर नंबर}} को रद्द करना चाहूंगा,आदेश रद्द
+i do not want these article i try to cancel order {{Order Number}},cancel_order,मैं नहीं चाहता कि ये लेख मैं आदेश {{ऑर्डर नंबर}} को रद्द करने का प्रयास करें,आदेश रद्द
+i need help to cancel purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}}},आदेश रद्द
+I have got to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए मिला है {{ऑर्डर नंबर}}},आदेश रद्द
+problems with cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+I need help canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+assistance canceling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+could ya help me cancel order {{Order Number}},cancel_order,क्या आप मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं,आदेश रद्द
+could you help me cancelling order {{Order Number}} ?,cancel_order,क्या आप मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+cance order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+assistance cancelling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+assistance with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+canceling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+how to cancel order {{Order Number}},cancel_order,ऑर्डर {{ऑर्डर नंबर}} कैसे रद्द करें,आदेश रद्द
+help me cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+have a question about cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+I can't afford purchase {{Order Number}},cancel_order,मैं खरीद नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+assistance with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+"I ordered some item, cancel purchase {{Order Number}}",cancel_order,"मैंने कुछ आइटम का आदेश दिया, खरीदें {{ऑर्डर नंबर}}",आदेश रद्द
+i need help cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+"I can't afford order {{Order Number}}, help me cancelling it",cancel_order,"मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}}, मुझे इसे रद्द करने में मदद करें",आदेश रद्द
+I do not know how I can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद को रद्द कर सकता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I try to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने का प्रयास करता हूं {{ऑर्डर नंबर}},आदेश रद्द
+problem with cancelling order {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+"I cannot pay for the last purchase I have made, cancel it",cancel_order,"मैं अपने द्वारा की गई अंतिम खरीद के लिए भुगतान नहीं कर सकता, इसे रद्द करें",आदेश रद्द
+help me cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+could you help me cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+I want to cancle purchase {{Order Number}},cancel_order,मैं खरीद {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+help me to cancel my  last goddamn purchase,cancel_order,मेरी अंतिम गोड्डम खरीद को रद्द करने में मेरी मदद करें,आदेश रद्द
+I have a problem witrh cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+can  uhelp me canceling order {{Order Number}},cancel_order,क्या आप मुझे आदेश रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+problems with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+I need assistancde cancelling order {{Order Number}},cancel_order,मुझे ASSITANCDE रद्द करने की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+"I bought some item, cancel order {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे, ऑर्डर रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+need help with cancelling order {{Order Number}},cancel_order,ऑर्डर को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+"I can't pay for this item, can I cancel order {{Order Number}}?",cancel_order,"मैं इस आइटम के लिए भुगतान नहीं कर सकता, क्या मैं ऑर्डर {{ऑर्डर नंबर}} को रद्द कर सकता हूं?",आदेश रद्द
+I need help cacneling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+where could I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+i bought some damn item help to cancep order {{Order Number}},cancel_order,मैंने ऑर्डर {{ऑर्डर नंबर}} को रद्द करने के लिए कुछ लानत आइटम मदद खरीदी,आदेश रद्द
+want assistance to cancel order {{Order Number}},cancel_order,आदेश रद्द करने के लिए सहायता चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+"I have got to cancel purchase {{Order Number}}, help me",cancel_order,"मुझे खरीद रद्द करने के लिए {{ऑर्डर नंबर}}, मेरी मदद करें",आदेश रद्द
+whag do i need to do to cancel order {{Order Number}},cancel_order,आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए मुझे क्या करने की आवश्यकता है,आदेश रद्द
+I want assistance canceling order {{Order Number}},cancel_order,मैं सहायता रद्द करने के आदेश को रद्द करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I can no longer afford purchase {{Order Number}},cancel_order,मैं अब खरीदारी नहीं कर सकता {{ऑर्डर नंबर}}},आदेश रद्द
+I want assistance to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+cancelling order,cancel_order,रद्द करने का आदेश,आदेश रद्द
+i want help cancelling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+what do I have to do to cancel order {{Order Number}}?,cancel_order,ऑर्डर {{ऑर्डर नंबर}} को रद्द करने के लिए मुझे क्या करना होगा?,आदेश रद्द
+can you help me to cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+I need help cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I do not know how I can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद को रद्द कर सकता हूं {{ऑर्डर नंबर}},आदेश रद्द
+i want help to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+how do i cancel order {{Order Number}},cancel_order,मैं ऑर्डर {{ऑर्डर नंबर}} कैसे रद्द करूं,आदेश रद्द
+"I bought some articles, help me to cancel order {{Order Number}}",cancel_order,"मैंने कुछ लेख खरीदे, मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने में मदद करें",आदेश रद्द
+need assistance cancelling order {{Order Number}},cancel_order,सहायता रद्द करने की आवश्यकता है आदेश {{आदेश संख्या}},आदेश रद्द
+where to cancel purchase {{Order Number}},cancel_order,कहां खरीदें {{ऑर्डर नंबर}} को रद्द करें,आदेश रद्द
+I want help canceling order {{Order Number}},cancel_order,मैं आदेश रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I want help cancellkng purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने में मदद करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I need help with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I want assistance to cancel order {{Order Number}},cancel_order,मैं आदेश को रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance to cancel order {{Order Number}},cancel_order,मैं आदेश को रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+need assistance cancelling purchase {{Order Number}},cancel_order,खरीद को रद्द करने की आवश्यकता है {{ऑर्डर नंबर}}},आदेश रद्द
+where can I cancel order {{Order Number}}?,cancel_order,मैं ऑर्डर {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+have problems with canceling order {{Order Number}},cancel_order,ऑर्डर को रद्द करने में समस्याएं {{ऑर्डर नंबर}}},आदेश रद्द
+where can I cancel order {{Order Number}}?,cancel_order,मैं ऑर्डर {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+I can no longer pay for order {{Order Number}},cancel_order,मैं अब आदेश के लिए भुगतान नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+I can't afford purchase {{Order Number}},cancel_order,मैं खरीद नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+"I would like to cancel purchase {{Order Number}}, I need help",cancel_order,"मैं खरीद {{ऑर्डर नंबर}} को रद्द करना चाहूंगा, मुझे मदद की ज़रूरत है",आदेश रद्द
+i do not know how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+help with cancelling purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+i want help cancelling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+"I can no longer afford order {{Order Number}}, help me cancel it",cancel_order,"मैं अब आदेश नहीं दे सकता {{ऑर्डर नंबर}}, मुझे इसे रद्द करने में मदद करें",आदेश रद्द
+need assistance canceling order {{Order Number}},cancel_order,आदेश रद्द करने की आवश्यकता है आदेश {{आदेश संख्या}}},आदेश रद्द
+I have problems with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+would it be possible to cancel purchase {{Order Number}},cancel_order,क्या खरीद रद्द करना संभव होगा {{ऑर्डर नंबर}},आदेश रद्द
+could you help me canceling purchase {{Order Number}}?,cancel_order,क्या आप खरीदारी को रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+I want help to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+help with cancelling purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+assistance with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+cance order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+can uhelp me cancelling purchase {{Order Number}},cancel_order,क्या मुझे खरीद रद्द कर सकते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+how could icancel purchase {{Order Number}},cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द कर सकता हूं,आदेश रद्द
+i need assistance canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i do not knwo how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+"I have ordered some article, cancel purchase {{Order Number}}",cancel_order,"मैंने कुछ लेख का आदेश दिया है, खरीद रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+need to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने की आवश्यकता है {{ऑर्डर नंबर}}},आदेश रद्द
+have problems with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}}},आदेश रद्द
+i no longer want purchase  {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदना नहीं चाहता,आदेश रद्द
+want help to cancel purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करना चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+question about canceling order {{Order Number}},cancel_order,आदेश रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cancel purchase {{Order Number}} ?,cancel_order,क्या खरीद को रद्द करना संभव है {{ऑर्डर नंबर}}?,आदेश रद्द
+have a question about cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+help with canceling purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I need help with canceling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+iwant assistance canceling order {{Order Number}},cancel_order,iwant सहायता रद्द करने के आदेश {{आदेश संख्या}},आदेश रद्द
+have problems with canceling order  {{Order Number}},cancel_order,ऑर्डर को रद्द करने में समस्याएं {{ऑर्डर नंबर}}},आदेश रद्द
+i wan help to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करने में मदद करता हूं,आदेश रद्द
+i need help cancelling puchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I can no longer afford order {{Order Number}},cancel_order,मैं अब आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+"I have got to cancel purchase {{Order Number}}, how do I do it?",cancel_order,"मुझे खरीद रद्द करने के लिए {{ऑर्डर नंबर}}, मैं इसे कैसे करूं?",आदेश रद्द
+i need help with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+cancel purchase {{Order Number}},cancel_order,खरीदें {{ऑर्डर नंबर}} खरीदें,आदेश रद्द
+assistance with canceling oreder {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+problems with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cancel purchase {{Order Number}},cancel_order,क्या खरीद रद्द करना संभव है {{ऑर्डर नंबर}}},आदेश रद्द
+I need assistance cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i do not know how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+I no longer want purchase {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदना नहीं चाहता,आदेश रद्द
+can you help me cancelling purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+assistance cancelling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+I need help cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I don't want purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीद नहीं चाहता,आदेश रद्द
+"I bought some items, I need help to cancel purchase {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे, मुझे खरीद को रद्द करने में मदद की ज़रूरत है {{ऑर्डर नंबर}}",आदेश रद्द
+could you help me cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+cancel purchase {{Order Number}},cancel_order,खरीदें {{ऑर्डर नंबर}} खरीदें,आदेश रद्द
+problem with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+cancel purchase {{Order Number}},cancel_order,खरीदें {{ऑर्डर नंबर}} खरीदें,आदेश रद्द
+where do i cancel purchase {{Order Number}},cancel_order,मैं खरीदें {{ऑर्डर नंबर}} कहां रद्द करूं,आदेश रद्द
+need help with cancelliing order {{Order Number}},cancel_order,Cancelliing ऑर्डर {{ऑर्डर नंबर}} के साथ मदद चाहिए,आदेश रद्द
+I have problems with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cancel order {{Order Number}}?,cancel_order,क्या ऑर्डर {{ऑर्डर नंबर}} को रद्द करना संभव है?,आदेश रद्द
+i havegot to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए मिला है {{ऑर्डर नंबर}}},आदेश रद्द
+"I cannot pay for this product, cancel order {{Order Number}}",cancel_order,"मैं इस उत्पाद के लिए भुगतान नहीं कर सकता, आदेश रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+I don't know how I can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं {{ऑर्डर नंबर}} खरीद को कैसे रद्द कर सकता हूं,आदेश रद्द
+help cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+would you give me information about cancelling orders?,cancel_order,क्या आप मुझे आदेश रद्द करने के बारे में जानकारी देंगे?,आदेश रद्द
+I need assistance with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+canceling purchase {{Order Number}},cancel_order,खरीद रद्द करें {{ऑर्डर नंबर}},आदेश रद्द
+"I can't afford my last item, cancel purchase {{Order Number}}",cancel_order,"मैं अपना अंतिम आइटम बर्दाश्त नहीं कर सकता, खरीदें {{ऑर्डर नंबर}}",आदेश रद्द
+I cannot afford order {{Order Number}},cancel_order,मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+have problems with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}}},आदेश रद्द
+I have a problem with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+question about canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+I have got to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए मिला है {{ऑर्डर नंबर}}},आदेश रद्द
+"I can't afford order {{Order Number}}, could I cancel it?",cancel_order,"मैं आदेश {{ऑर्डर नंबर}} नहीं खरीद सकता, क्या मैं इसे रद्द कर सकता हूं?",आदेश रद्द
+i dont know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}},आदेश रद्द
+"I don't want this item, help me cancel purchase {{Order Number}}",cancel_order,"मुझे यह आइटम नहीं चाहिए, मुझे खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}}",आदेश रद्द
+i need assistance with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+have a problem with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ एक समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+"I can't afford this product, cancel order {{Order Number}}",cancel_order,"मैं इस उत्पाद को बर्दाश्त नहीं कर सकता, आदेश रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+cancel purchase  {{Order Number}},cancel_order,खरीदें {{ऑर्डर नंबर}},आदेश रद्द
+could you help me canceling purchase {{Order Number}}?,cancel_order,क्या आप खरीदारी को रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+i try to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} रद्द करने का प्रयास करता हूं,आदेश रद्द
+can you help me cancelling order {{Order Number}}?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+what do I ned to do to cancel order {{Order Number}}?,cancel_order,आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए मुझे क्या करने की आवश्यकता है?,आदेश रद्द
+i need help to cancel purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}}},आदेश रद्द
+"I have bought some items, help canceling purchase {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे हैं, खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}}",आदेश रद्द
+I need assistance canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I can't afford purchase {{Order Number}},cancel_order,मैं खरीद नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+assistance with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+canmcel order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+help with canceling purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I need help to cancel purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i can no longer afford order {{Order Number}},cancel_order,मैं अब आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+I can no longer pay for order {{Order Number}},cancel_order,मैं अब आदेश के लिए भुगतान नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+i have problems with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने की समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+I have problems with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+"I purchased some item, help canceling one of the orders",cancel_order,"मैंने कुछ आइटम खरीदे, एक आदेश को रद्द करने में मदद की",आदेश रद्द
+I need helpto cancel order {{Order Number}},cancel_order,मुझे ऑर्डर {{ऑर्डर नंबर}} को रद्द करने में सहायता की आवश्यकता है,आदेश रद्द
+camceling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+i purchased some fucking item cancel order {{Order Number}},cancel_order,मैंने कुछ कमबख्त आइटम खरीदे गए ऑर्डर {{ऑर्डर नंबर}},आदेश रद्द
+want assistance to cancel pyrchase {{Order Number}},cancel_order,खरीद रद्द करने के लिए सहायता चाहते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+i need assistance to cancel order {{Order Number}},cancel_order,मुझे आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता की आवश्यकता है,आदेश रद्द
+i need help with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+cancelling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+"I have ordered some item, cancel purchase {{Order Number}}",cancel_order,"मैंने कुछ आइटम का आदेश दिया है, खरीद रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+i can no longer pay for purchase {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+I need assistance canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+"I do not want this item, cancel order {{Order Number}}",cancel_order,"मुझे यह आइटम नहीं चाहिए, आदेश रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+i need assistance cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+ened help with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ मदद {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+can ya help me cancel purchase {{Order Number}},cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+want assistance cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने की सहायता चाहते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+need help with canceling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ मदद की आवश्यकता है {{आदेश संख्या}}},आदेश रद्द
+I can no longer pay for purchase {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+want assistance canceling order {{Order Number}},cancel_order,सहायता रद्द करना चाहते हैं आदेश {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cancel purchase {{Order Number}}?,cancel_order,क्या खरीद को रद्द करना संभव है {{ऑर्डर नंबर}}?,आदेश रद्द
+cance order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+assistance canceling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+what do I need to do to cancel purchase {{Order Number}}?,cancel_order,खरीद को रद्द करने के लिए मुझे क्या करने की आवश्यकता है {{ऑर्डर नंबर}}?,आदेश रद्द
+I want help cancelling purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने में मदद करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+i have a problem with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने में समस्या है,आदेश रद्द
+i cant pay for order {{Order Number}},cancel_order,मैं आदेश के लिए भुगतान नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+can you help me cancelling order {{Order Number}}?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+I need help to cancel purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I have a problem with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+canceling purechase {{Order Number}},cancel_order,चांसलिंग बर्न्स {{ऑर्डर नंबर}}},आदेश रद्द
+I need help cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I dp not know how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+what do I need to do to cancel order {{Order Number}}?,cancel_order,आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए मुझे क्या करने की आवश्यकता है?,आदेश रद्द
+i dont know what to do to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर को रद्द करने के लिए क्या करना है {{ऑर्डर नंबर}},आदेश रद्द
+cancel order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cancel purchase {{Order Number}},cancel_order,क्या खरीद रद्द करना संभव है {{ऑर्डर नंबर}}},आदेश रद्द
+I am trying to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} रद्द करने का प्रयास कर रहा हूं,आदेश रद्द
+I need help with cancellng order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+help canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I want help cancelling purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने में मदद करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I want help cancellkng purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने में मदद करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+"I can't afford order {{Order Number}}, help me cancelling it",cancel_order,"मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}}, मुझे इसे रद्द करने में मदद करें",आदेश रद्द
+I need assistance to cancel order {{Order Number}},cancel_order,मुझे आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता की आवश्यकता है,आदेश रद्द
+I have a problem with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने में समस्या है,आदेश रद्द
+assistance canceling the last order,cancel_order,अंतिम आदेश को रद्द करने में सहायता,आदेश रद्द
+assistance to cancel order {{Order Number}},cancel_order,आदेश रद्द करने के लिए सहायता {{आदेश संख्या}},आदेश रद्द
+"I don't want this product, cancel purchase {{Order Number}}",cancel_order,"मुझे यह उत्पाद नहीं चाहिए, खरीदें {{ऑर्डर नंबर}} रद्द करें",आदेश रद्द
+assistance cancelling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+I cannot afford order {{Order Number}},cancel_order,मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+problems with cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+need help canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i can no longer afford purchase {{Order Number}},cancel_order,मैं अब खरीदारी नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+I need help with canceling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+how could I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द कर सकता हूं?,आदेश रद्द
+i want help canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+asistance cancelling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance to cancel order {{Order Number}},cancel_order,मुझे आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता की आवश्यकता है,आदेश रद्द
+i need help cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I do not know what to do tro cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि क्या करना है ट्रो रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+cancelling purchase {{Order Number}},cancel_order,रद्द करना {{ऑर्डर नंबर}}},आदेश रद्द
+want help cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करना चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+help with canceling purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I don't know how I colud cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि मैं ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द कर सकता हूं,आदेश रद्द
+where can i cancel purchase {{Order Number}},cancel_order,मैं कहां से खरीदें {{ऑर्डर नंबर}} को रद्द कर सकता हूं,आदेश रद्द
+help me cancel purchase {{Order Number}},cancel_order,मुझे खरीदने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+can you help me cancelong purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+i dont know what to do to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद रद्द करने के लिए क्या करना है {{ऑर्डर नंबर}},आदेश रद्द
+i have problems with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने की समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+I want to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} रद्द करना चाहता हूं,आदेश रद्द
+"I can't afford order {{Order Number}}, could you cancel it?",cancel_order,"मैं आदेश {{ऑर्डर नंबर}} नहीं खरीद सकता, क्या आप इसे रद्द कर सकते हैं?",आदेश रद्द
+i want assistance cancelling order {{Order Number}},cancel_order,मैं सहायता रद्द करने के आदेश को रद्द करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+i want help to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} को रद्द करने में मदद चाहता हूं,आदेश रद्द
+what do I need to do to cancel purchase {{Order Number}}?,cancel_order,खरीद को रद्द करने के लिए मुझे क्या करने की आवश्यकता है {{ऑर्डर नंबर}}?,आदेश रद्द
+i want help cancelling order {{Order Number}},cancel_order,मैं आदेश रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I do not know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने का तरीका {{ऑर्डर नंबर}},आदेश रद्द
+"I cannot afford my last item, how can I cancel the order?",cancel_order,"मैं अपने अंतिम आइटम को बर्दाश्त नहीं कर सकता, मैं ऑर्डर कैसे रद्द कर सकता हूं?",आदेश रद्द
+"I don't want this item, cancel order {{Order Number}}",cancel_order,"मुझे यह आइटम नहीं चाहिए, आदेश रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+I no longer want order {{Order Number}},cancel_order,मैं अब आदेश {{ऑर्डर नंबर}} नहीं चाहता,आदेश रद्द
+can you help me to cancel order {{Order Number}}?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+cancelling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+"I do not want this item, I try to cancel order {{Order Number}}",cancel_order,"मुझे यह आइटम नहीं चाहिए, मैं आदेश {{ऑर्डर नंबर}} को रद्द करने का प्रयास करता हूं",आदेश रद्द
+what do I have to do to cancel order {{Order Number}}?,cancel_order,ऑर्डर {{ऑर्डर नंबर}} को रद्द करने के लिए मुझे क्या करना होगा?,आदेश रद्द
+I can no longer afford order {{Order Number}},cancel_order,मैं अब आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+I need help canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I have problems with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+i want help canceling order {{Order Number}},cancel_order,मैं आदेश रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+help with canceling purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I don't know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}} को रद्द करें,आदेश रद्द
+"I do not want my last bloody item, cancel order {{Order Number}}",cancel_order,"मैं अपना अंतिम खूनी वस्तु नहीं चाहता, आदेश रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+can ya help me to cancel order {{Order Number}},cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं,आदेश रद्द
+i dont want order {{Order Number}},cancel_order,मैं आदेश {{आदेश संख्या}} नहीं चाहता,आदेश रद्द
+could you help me to cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+have problems wth cancelling order {{Order Number}},cancel_order,ऑर्डर को रद्द करने में समस्याएं {{ऑर्डर नंबर}}},आदेश रद्द
+I need help with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+i dont want this artilce cancel order {{Order Number}},cancel_order,मैं नहीं चाहता कि यह लेख रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+I cannot afford order {{Order Number}},cancel_order,मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+need help with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ मदद की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I try to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने का प्रयास करता हूं {{ऑर्डर नंबर}},आदेश रद्द
+"I bought some article, help canceling order {{Order Number}}",cancel_order,"मैंने कुछ लेख खरीदे, ऑर्डर रद्द करने में मदद करें {{ऑर्डर नंबर}}",आदेश रद्द
+can you help me cancelling oredr {{Order Number}}?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+help  with cancelling order {{Order Number}},cancel_order,ऑर्डर रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+assistance to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने के लिए सहायता {{ऑर्डर नंबर}},आदेश रद्द
+help to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने में सहायता {{ऑर्डर नंबर}},आदेश रद्द
+can you help me cancelling order {{Order Number}}?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+i dont want purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीदना नहीं चाहता,आदेश रद्द
+canmcel order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+help cancelling my bloody purchase,cancel_order,मेरी खूनी खरीद को रद्द करने में मदद करें,आदेश रद्द
+assistance cancelling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+can you help me to cancel order {{Order Number}} ?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+I need assistance with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cancel purchase {{Order Number}},cancel_order,क्या खरीद रद्द करना संभव है {{ऑर्डर नंबर}}},आदेश रद्द
+canceling order,cancel_order,रद्द करने का आदेश,आदेश रद्द
+problems with cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+what do I have to do to cancel purchase {{Order Number}}?,cancel_order,खरीद को रद्द करने के लिए मुझे क्या करना होगा {{ऑर्डर नंबर}}?,आदेश रद्द
+I need assistance canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I want help cancelling purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने में मदद करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+i want help canceling order {{Order Number}},cancel_order,मैं आदेश रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I want assistance to cancle purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+i do not know how to cancel purchasw {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}} को रद्द करें,आदेश रद्द
+question about cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+help me cancel purchase {{Order Number}},cancel_order,मुझे खरीदने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+i dont want purchase {{Order Number}} could i cancel it,cancel_order,मैं नहीं चाहता कि {{ऑर्डर नंबर}} मैं इसे रद्द कर सकता हूं,आदेश रद्द
+i obught some item help me canceling order {{Order Number}},cancel_order,"मैंने कुछ आइटम खरीदे हैं, मुझे आदेश रद्द करने में मदद करें {{ऑर्डर नंबर}}}",आदेश रद्द
+I'm trying to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने की कोशिश कर रहा हूं {{ऑर्डर नंबर}},आदेश रद्द
+problems with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+cancelling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+canceling purchase {{Order Number}},cancel_order,खरीद रद्द करें {{ऑर्डर नंबर}},आदेश रद्द
+i dont khow how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+I need assistance cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+how can I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द कर सकता हूं?,आदेश रद्द
+I can no longer afford purchase {{Order Number}},cancel_order,मैं अब खरीदारी नहीं कर सकता {{ऑर्डर नंबर}}},आदेश रद्द
+I want help to cancle purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+I can't afford order {{Order Number}},cancel_order,मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+canmcel order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+help me canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I try to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने का प्रयास करता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I don't want purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीद नहीं चाहता,आदेश रद्द
+I need help with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+I have got to cancel purcahse {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए मिला है {{ऑर्डर नंबर}}},आदेश रद्द
+help me to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}}},आदेश रद्द
+I need help cancelling oredr {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+help me canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+i want help canceling order {{Order Number}},cancel_order,मैं आदेश रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I need help to cancel order {{Order Number}},cancel_order,मुझे ऑर्डर {{ऑर्डर नंबर}} को रद्द करने में सहायता की आवश्यकता है,आदेश रद्द
+I want assistance to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I don't know how I can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं {{ऑर्डर नंबर}} खरीद को कैसे रद्द कर सकता हूं,आदेश रद्द
+cance order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+problems with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+need assistance to cancel order {{Order Number}},cancel_order,आदेश को रद्द करने के लिए सहायता की आवश्यकता है {{आदेश संख्या}},आदेश रद्द
+I no longerr want purchase {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदना नहीं चाहता,आदेश रद्द
+I need assistance canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i have to cancel purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करना होगा {{ऑर्डर नंबर}},आदेश रद्द
+i dont want order {{Order Number}},cancel_order,मैं आदेश {{आदेश संख्या}} नहीं चाहता,आदेश रद्द
+I need help canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+i do not know how i can cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि मैं ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द कर सकता हूं,आदेश रद्द
+canceling purchase {{Order Number}},cancel_order,खरीद रद्द करें {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+assistance with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+problem witth cancelling order {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+"I bought some items, help canceling order {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे, ऑर्डर रद्द करने में मदद करें {{ऑर्डर नंबर}}",आदेश रद्द
+I need assistance with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance cancelling purcjase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i dont want order {{Order Number}},cancel_order,मैं आदेश {{आदेश संख्या}} नहीं चाहता,आदेश रद्द
+I can no longer afford purchase {{Order Number}},cancel_order,मैं अब खरीदारी नहीं कर सकता {{ऑर्डर नंबर}}},आदेश रद्द
+what do i need to do to cancel order {{Order Number}},cancel_order,आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए मुझे क्या करने की आवश्यकता है,आदेश रद्द
+I need assistance canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i need assistance with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I can't pay for purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+I do not want purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीद नहीं चाहता,आदेश रद्द
+cancel purchase732201349959,cancel_order,खरीदें खरीदें 732201349959,आदेश रद्द
+I do not know how I can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद को रद्द कर सकता हूं {{ऑर्डर नंबर}},आदेश रद्द
+need help with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ मदद की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I can no longer pay for purchase {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+I need help to cancel purchase370795561790,cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए 370795561790,आदेश रद्द
+I do not know how I can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद को रद्द कर सकता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I need help canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+what do I need to do to cancel purchase {{Order Number}}?,cancel_order,खरीद को रद्द करने के लिए मुझे क्या करने की आवश्यकता है {{ऑर्डर नंबर}}?,आदेश रद्द
+want assistance cancelling order {{Order Number}},cancel_order,सहायता रद्द करना चाहते हैं आदेश {{ऑर्डर नंबर}},आदेश रद्द
+want help cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करना चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+help to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने में सहायता {{ऑर्डर नंबर}},आदेश रद्द
+"I can't pay for purchase {{Order Number}}, how can I cancel it?",cancel_order,"मैं {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता, मैं इसे कैसे रद्द कर सकता हूं?",आदेश रद्द
+want assistance canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने की सहायता चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+I don't know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}} को रद्द करें,आदेश रद्द
+i dont want ordr {{Order Number}} could uhelp me cancel it,cancel_order,मुझे आदेश नहीं चाहिए {{ऑर्डर नंबर}} क्या आप मुझे इसे रद्द करने में मदद कर सकते हैं,आदेश रद्द
+"I cannot afford order {{Order Number}}, I need help canceling it",cancel_order,"मैं आदेश {{ऑर्डर नंबर}} नहीं खरीद सकता, मुझे इसे रद्द करने में मदद चाहिए",आदेश रद्द
+want assistance canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने की सहायता चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+i do not know how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+I want help canceling order {{Order Number}},cancel_order,मैं आदेश रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+where can I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+I need help cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I need assistance to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+can you help me cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+I'm trying to cancel order {{Order Number}},cancel_order,मैं ऑर्डर {{ऑर्डर नंबर}} को रद्द करने का प्रयास कर रहा हूं,आदेश रद्द
+i dont know what to do to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद रद्द करने के लिए क्या करना है {{ऑर्डर नंबर}},आदेश रद्द
+I need help cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+i can no longer pay fororder {{Order Number}} cancel it,cancel_order,मैं अब आदेश के लिए भुगतान नहीं कर सकता {{ऑर्डर नंबर}} इसे रद्द करें,आदेश रद्द
+I don't knowhow to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}} को रद्द करें,आदेश रद्द
+I do not know how I could cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद को रद्द कर सकता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+i do not know how i can cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि मैं ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द कर सकता हूं,आदेश रद्द
+I don't know what to do to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने के लिए क्या करना है {{ऑर्डर नंबर}},आदेश रद्द
+cance order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+where can I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+assistance with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+i want assistance to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता चाहता हूं,आदेश रद्द
+I want assistance cancelling order {{Order Number}},cancel_order,मैं सहायता रद्द करने के आदेश को रद्द करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+i dont khow how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+i need assistance to cancel order {{Order Number}},cancel_order,मुझे आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता की आवश्यकता है,आदेश रद्द
+problems with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+canceling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+"I can't pay for this item, cancel order {{Order Number}}",cancel_order,"मैं इस आइटम के लिए भुगतान नहीं कर सकता, आदेश रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+camceling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+question about canceling order {{Order Number}},cancel_order,आदेश रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+help me cancel purchase {{Order Number}},cancel_order,मुझे खरीदने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+want assistance cancelling order {{Order Number}},cancel_order,सहायता रद्द करना चाहते हैं आदेश {{ऑर्डर नंबर}},आदेश रद्द
+want asistance canceling order {{Order Number}},cancel_order,Asistance रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+i need assiostance cancelling order {{Order Number}},cancel_order,मुझे Assiostance रद्द करने की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+cancelling purchase {{Order Number}},cancel_order,रद्द करना {{ऑर्डर नंबर}}},आदेश रद्द
+I am trying to cancel purchaes {{Order Number}},cancel_order,मैं खरीद रद्द करने की कोशिश कर रहा हूं {{ऑर्डर नंबर}}},आदेश रद्द
+i need help canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+what do I need to do to cancel purchase {{Order Number}}?,cancel_order,खरीद को रद्द करने के लिए मुझे क्या करने की आवश्यकता है {{ऑर्डर नंबर}}?,आदेश रद्द
+help with cancelling purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+"I bought some item, cancel order {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे, ऑर्डर रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+I need help with canceling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+could you help me cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+what do i need to do to cancel order {{Order Number}},cancel_order,आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए मुझे क्या करने की आवश्यकता है,आदेश रद्द
+canceling purchase {{Order Number}},cancel_order,खरीद रद्द करें {{ऑर्डर नंबर}},आदेश रद्द
+I do not know how I can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद को रद्द कर सकता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I have problems with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+ohw to cancel order {{Order Number}},cancel_order,ऑर्डर {{ऑर्डर नंबर}} कैसे रद्द करें,आदेश रद्द
+is it possible to cxancel order {{Order Number}},cancel_order,क्या आदेश {{ऑर्डर नंबर}} को रद्द करना संभव है,आदेश रद्द
+i have problems with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+where do I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द करूं?,आदेश रद्द
+I have an question about cancelling order {{Order Number}},cancel_order,मेरे पास आदेश रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+I would like to cancel purchase {{Order Number}},cancel_order,मैं खरीद {{ऑर्डर नंबर}} को रद्द करना चाहूंगा,आदेश रद्द
+assistance canceling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+I want help to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+I am trying to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की कोशिश कर रहा हूं {{ऑर्डर नंबर}}},आदेश रद्द
+cancelling purchase {{Order Number}},cancel_order,रद्द करना {{ऑर्डर नंबर}}},आदेश रद्द
+can you help me cancelling purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+i need assistance cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+camceling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+need assistance canceling order {{Order Number}},cancel_order,आदेश रद्द करने की आवश्यकता है आदेश {{आदेश संख्या}}},आदेश रद्द
+help me cancel purchase {{Order Number}},cancel_order,मुझे खरीदने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+problems with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+i need assistance with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+help me to cancel order  {{Order Number}},cancel_order,आदेश {{ऑर्डर नंबर}} को रद्द करने में मेरी सहायता करें,आदेश रद्द
+I can no longer afford order {{Order Number}},cancel_order,मैं अब आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+i do not know what to do to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए क्या करना है,आदेश रद्द
+i no longer want order {{Order Number}},cancel_order,मैं अब आदेश {{ऑर्डर नंबर}} नहीं चाहता,आदेश रद्द
+I want assistance canceling order {{Order Number}},cancel_order,मैं सहायता रद्द करने के आदेश को रद्द करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+problem with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+"I no longer want order {{Order Number}}, how do I cancel it?",cancel_order,"मुझे अब आदेश {{ऑर्डर नंबर}} नहीं चाहिए, मैं इसे कैसे रद्द करूं?",आदेश रद्द
+I cannot afford purchase {{Order Number}},cancel_order,मैं खरीद नहीं कर सकता {{ऑर्डर नंबर}}},आदेश रद्द
+I don't want purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीद नहीं चाहता,आदेश रद्द
+"I purchased some items, I want to cancel order {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे, मैं ऑर्डर {{ऑर्डर नंबर}} को रद्द करना चाहता हूं",आदेश रद्द
+question about cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+I have a question about canceling purchase {{Order Number}},cancel_order,मेरे पास खरीद रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+need help to cancel purchase {{Order Number}},cancel_order,खरीद को रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i do not know how i could casncel order {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैस्नसेल ऑर्डर {{ऑर्डर नंबर}} कैसे कर सकता हूं,आदेश रद्द
+need help with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ मदद की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I can't afford order {{Order Number}},cancel_order,मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+what do I ned to do to cancel order {{Order Number}}?,cancel_order,आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए मुझे क्या करने की आवश्यकता है?,आदेश रद्द
+i dont want order {{Order Number}} could i cancel it,cancel_order,मैं नहीं चाहता {{ऑर्डर नंबर}} मैं इसे रद्द कर सकता हूं,आदेश रद्द
+have a question about canceling order {{Order Number}},cancel_order,आदेश रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+I cannot afford order {{Order Number}},cancel_order,मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+I need help canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+question about canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+"I doln't want order {{Order Number}}, can you cancel it?",cancel_order,"मुझे आदेश {{ऑर्डर नंबर}} नहीं चाहिए, क्या आप इसे रद्द कर सकते हैं?",आदेश रद्द
+i bought something i wanna cancel order {{Order Number}},cancel_order,मैंने कुछ खरीदा मैं आदेश रद्द करना चाहता हूँ {{ऑर्डर नंबर}},आदेश रद्द
+help me canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I want help to cancle purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+what do i need to do to cancel order {{Order Number}},cancel_order,आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए मुझे क्या करने की आवश्यकता है,आदेश रद्द
+I try to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने का प्रयास करता हूं {{ऑर्डर नंबर}},आदेश रद्द
+"I can no longer afford order {{Order Number}}, can I cancel it?",cancel_order,"मैं अब आदेश नहीं दे सकता {{ऑर्डर नंबर}}, क्या मैं इसे रद्द कर सकता हूं?",आदेश रद्द
+i want help to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+I need help cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+how to cancel purchase {{Order Number}}?,cancel_order,खरीदें {{ऑर्डर नंबर}} कैसे रद्द करें?,आदेश रद्द
+i bought somegoddamn item how do i cancel order {{Order Number}},cancel_order,मैंने कुछ Goddamn आइटम खरीदे कि मैं कैसे आदेश रद्द करूं {{ऑर्डर नंबर}}},आदेश रद्द
+"I bought some product, I want to cancel order {{Order Number}}",cancel_order,"मैंने कुछ उत्पाद खरीदा, मैं आदेश {{ऑर्डर नंबर}} को रद्द करना चाहता हूं",आदेश रद्द
+need assistance with canceling order {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i do not knwo how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+"I have to cancel purchase {{Order Number}}, can I get some help?",cancel_order,"मुझे खरीद {{ऑर्डर नंबर}} को रद्द करना होगा, क्या मुझे कुछ मदद मिल सकती है?",आदेश रद्द
+is it possible to cancel purchase {{Order Number}}?,cancel_order,क्या खरीद को रद्द करना संभव है {{ऑर्डर नंबर}}?,आदेश रद्द
+help cancelling order {{Order Number}},cancel_order,ऑर्डर रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+cancel order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+icannot afford order {{Order Number}} could i cancel it,cancel_order,मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}} क्या मैं इसे रद्द कर सकता हूं,आदेश रद्द
+need help cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+what do I need to do to cancel purchase {{Order Number}}?,cancel_order,खरीद को रद्द करने के लिए मुझे क्या करने की आवश्यकता है {{ऑर्डर नंबर}}?,आदेश रद्द
+i cannot pay for puchase {{Order Number}} how could i cancel it,cancel_order,"मैं {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता, मैं इसे कैसे रद्द कर सकता हूं",आदेश रद्द
+I want help cancellkng purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने में मदद करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+i need help with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I need help with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+how can I cancel order {{Order Number}}?,cancel_order,मैं ऑर्डर {{ऑर्डर नंबर}} कैसे रद्द कर सकता हूं?,आदेश रद्द
+I need assistance cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i want assistance tocancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता चाहता हूं,आदेश रद्द
+"I purchased some articles, cancel order {{Order Number}}",cancel_order,"मैंने कुछ लेख खरीदे, ऑर्डर रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+i nee help to cancel order {{Order Number}},cancel_order,मुझे ऑर्डर {{ऑर्डर नंबर}} को रद्द करने में सहायता की आवश्यकता है,आदेश रद्द
+problem with cancelling order {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+I don't know what to do to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए क्या करना है,आदेश रद्द
+"I don't want this article, cancel order {{Order Number}}",cancel_order,"मुझे यह लेख नहीं चाहिए, आदेश रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+I need help with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+want assistance cancelling order {{Order Number}},cancel_order,सहायता रद्द करना चाहते हैं आदेश {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+can uhelp me cancelliung order {{Order Number}},cancel_order,क्या आप मुझे आदेश रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+canceling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+cancel order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+I can no longer pay for purchase {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+canceling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+can you help me to cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+I need assistance cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+problems with cnceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+where could I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+canmcel order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance cancelling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I do not know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने का तरीका {{ऑर्डर नंबर}},आदेश रद्द
+I would like to cancel purchase {{Order Number}},cancel_order,मैं खरीद {{ऑर्डर नंबर}} को रद्द करना चाहूंगा,आदेश रद्द
+I do not know how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+problems with cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+I need help with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+i dont know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}},आदेश रद्द
+help to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने में सहायता {{ऑर्डर नंबर}},आदेश रद्द
+i purchased something how to cancel order {{Order Number}},cancel_order,मैंने कुछ खरीदा है कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+want asistance canceling order {{Order Number}},cancel_order,Asistance रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+question about cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cancel order {{Order Number}},cancel_order,क्या आदेश {{ऑर्डर नंबर}} को रद्द करना संभव है,आदेश रद्द
+i cant afford order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} नहीं कर सकता,आदेश रद्द
+"I can no longer afford purchase {{Order Number}}, cancel it",cancel_order,"मैं अब खरीद नहीं कर सकता {{ऑर्डर नंबर}}, इसे रद्द करें",आदेश रद्द
+I don't want purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीद नहीं चाहता,आदेश रद्द
+I have problems with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+i dont want order {{Order Number}},cancel_order,मैं आदेश {{आदेश संख्या}} नहीं चाहता,आदेश रद्द
+i want assistance canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+i dont know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cancel order {{Order Number}}?,cancel_order,क्या ऑर्डर {{ऑर्डर नंबर}} को रद्द करना संभव है?,आदेश रद्द
+i do not know how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+assistance to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने के लिए सहायता {{ऑर्डर नंबर}},आदेश रद्द
+I need help with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I have a question about canceling purchase {{Order Number}},cancel_order,मेरे पास खरीद रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+"I ordered some products, how to cancel purchase {{Order Number}}?",cancel_order,"मैंने कुछ उत्पादों का आदेश दिया, खरीद {{ऑर्डर नंबर}} कैसे रद्द करें?",आदेश रद्द
+"I can't afford order {{Order Number}}, how can I cancel it?",cancel_order,"मैं आदेश {{ऑर्डर नंबर}} नहीं खरीद सकता, मैं इसे कैसे रद्द कर सकता हूं?",आदेश रद्द
+I do not want purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीद नहीं चाहता,आदेश रद्द
+i can no longer pay for order {{Order Number}},cancel_order,मैं अब आदेश के लिए भुगतान नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+I do not know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने का तरीका {{ऑर्डर नंबर}},आदेश रद्द
+"I bought some item, cancel order {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे, ऑर्डर रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+want assistance cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने की सहायता चाहते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+i cannot pay for my last item cancel order {{Order Number}},cancel_order,मैं अपने अंतिम आइटम के लिए भुगतान नहीं कर सकता आदेश {{ऑर्डर नंबर}},आदेश रद्द
+I have to cancel order {{Order Number}},cancel_order,मुझे ऑर्डर को रद्द करना होगा {{ऑर्डर नंबर}},आदेश रद्द
+I need help with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+can uhelp me canceling order {{Order Number}},cancel_order,क्या आप मुझे आदेश रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+I don't know what to do to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने के लिए क्या करना है {{ऑर्डर नंबर}},रद्द करें_ऑर्डर
+is it possible to cancel order {{Order Number}} ?,cancel_order,क्या ऑर्डर {{ऑर्डर नंबर}} को रद्द करना संभव है?,आदेश रद्द
+I have a problem with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+i dont knwo how i can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं {{ऑर्डर नंबर}} खरीद को कैसे रद्द कर सकता हूं,आदेश रद्द
+I need assistance with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+assistance with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+i do not know what to do to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने के लिए क्या करना है {{ऑर्डर नंबर}},आदेश रद्द
+I can no longer pay for purchase {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+I need help cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+can you help me cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+I do not know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने का तरीका {{ऑर्डर नंबर}},आदेश रद्द
+"I can't afford order {{Order Number}}, I need help to cancel it",cancel_order,"मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}}, मुझे इसे रद्द करने में मदद की ज़रूरत है",आदेश रद्द
+assistance with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+need help cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+need help with canceling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ मदद की आवश्यकता है {{आदेश संख्या}}},आदेश रद्द
+i want assistance canceling order {{Order Number}},cancel_order,मैं सहायता रद्द करने के आदेश को रद्द करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+want help to cancel order {{Order Number}},cancel_order,आदेश {{ऑर्डर नंबर}} को रद्द करने में मदद करना चाहते हैं,आदेश रद्द
+"I purchased some items, cancel order {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे, ऑर्डर रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+camceling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+how can I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द कर सकता हूं?,आदेश रद्द
+where can I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+where culd i cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} को कहां रद्द कर सकता हूं,आदेश रद्द
+help with cancelling order {{Order Number}},cancel_order,ऑर्डर रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I can't afford order {{Order Number}},cancel_order,मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+help me cancel purchase {{Order Number}},cancel_order,मुझे खरीदने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I dp not know how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द करें,आदेश रद्द
+i can no longer arford purchase {{Order Number}},cancel_order,मैं अब Arford खरीद नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+assistance to cancel purchased {{Order Number}},cancel_order,खरीदे गए {{ऑर्डर नंबर}} को रद्द करने के लिए सहायता,आदेश रद्द
+help  with cancelling order {{Order Number}},cancel_order,ऑर्डर रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+want assistance to cancel order {{Order Number}},cancel_order,आदेश रद्द करने के लिए सहायता चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+question about canceling a bloody purchase,cancel_order,एक खूनी खरीद को रद्द करने के बारे में प्रश्न,आदेश रद्द
+iwant assistance canceling order {{Order Number}},cancel_order,iwant सहायता रद्द करने के आदेश {{आदेश संख्या}},आदेश रद्द
+want help canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करना चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+i dont know how i can cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि मैं ऑर्डर को कैसे रद्द कर सकता हूं {{ऑर्डर नंबर}},आदेश रद्द
+"I purchased some items, help me cancel order {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे, मुझे ऑर्डर रद्द करने में मदद करें {{ऑर्डर नंबर}}",आदेश रद्द
+I want assistance cancelling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+help with canceling purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+problems with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I need help cancelnig purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+i want assistance to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता चाहता हूं,आदेश रद्द
+is it possible to cancel purchase {{Order Number}}?,cancel_order,क्या खरीद को रद्द करना संभव है {{ऑर्डर नंबर}}?,आदेश रद्द
+assistance canceling order {{Order Number}},cancel_order,सहायता रद्द करने का आदेश {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I am trying to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की कोशिश कर रहा हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I nee assistance to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए nee सहायता {{ऑर्डर नंबर}},आदेश रद्द
+help cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+can you help me to cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+need assistance witgh cancelling order {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+can you help me cancelling purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+want assistance to cancel order  {{Order Number}},cancel_order,आदेश रद्द करने के लिए सहायता चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+I want help cancelling purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने में मदद करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+problem with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+"I bought some item, cancel purchase {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे, खरीदें {{ऑर्डर नंबर}}",आदेश रद्द
+I don't know how I can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं {{ऑर्डर नंबर}} खरीद को कैसे रद्द कर सकता हूं,आदेश रद्द
+how do i cancel purchase {{Order Number}},cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द करूं,आदेश रद्द
+I want help canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I need assistance with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i need help cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+how can i cancel purchase {{Order Number}},cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द कर सकता हूं,आदेश रद्द
+I need assistance canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i want assistance to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता चाहता हूं,आदेश रद्द
+i dont know how to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि ऑर्डर {{ऑर्डर नंबर}} कैसे रद्द करें,आदेश रद्द
+what do I have to do to cancel purchase {{Order Number}}?,cancel_order,खरीद को रद्द करने के लिए मुझे क्या करना होगा {{ऑर्डर नंबर}}?,आदेश रद्द
+how do I cancel purchae {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द करूं?,आदेश रद्द
+I can't afford order {{Order Number}},cancel_order,मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+I don't know how I could cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं {{ऑर्डर नंबर}} खरीद को कैसे रद्द कर सकता हूं,आदेश रद्द
+I have a problem with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने में समस्या है,आदेश रद्द
+I want help canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+help to cancel order {{Order Number}},cancel_order,ऑर्डर {{ऑर्डर नंबर}} रद्द करने में मदद करें,आदेश रद्द
+problem with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance canceling order {{Order Number}},cancel_order,मैं सहायता रद्द करने के आदेश को रद्द करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I can't afford purchase {{Order Number}},cancel_order,मैं खरीद नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+camceling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+"I bought some articles, how to cancel order {{Order Number}}?",cancel_order,"मैंने कुछ लेख खरीदे, ऑर्डर {{ऑर्डर नंबर}} कैसे रद्द करें?",आदेश रद्द
+i do not want purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीद नहीं चाहता,आदेश रद्द
+problem with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+help me to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}}},आदेश रद्द
+I don't know how I can camcel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद सकता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+could uhelp me cancelin order {{Order Number}},cancel_order,क्या आप मुझे आदेश रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+i need help cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I want help to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} को रद्द करने में मदद चाहता हूं,आदेश रद्द
+i want assistance to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+what do I have to do to cancel purchase {{Order Number}}?,cancel_order,खरीद को रद्द करने के लिए मुझे क्या करना होगा {{ऑर्डर नंबर}}?,आदेश रद्द
+cancel purchase  {{Order Number}},cancel_order,खरीदें {{ऑर्डर नंबर}},आदेश रद्द
+I am trying to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} रद्द करने का प्रयास कर रहा हूं,आदेश रद्द
+i do not know how i can canmcel order {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे ऑर्डर कर सकता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+help me cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+have problems with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}}},आदेश रद्द
+i dont want order {{Order Number}},cancel_order,मैं आदेश {{आदेश संख्या}} नहीं चाहता,आदेश रद्द
+i need assistance canceling roder {{Order Number}},cancel_order,मुझे रोडर {{ऑर्डर नंबर}} को रद्द करने में सहायता की आवश्यकता है,आदेश रद्द
+can uhelp me canceling purchase {{Order Number}},cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+cancelling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+can you help me canceling order {{Order Number}}?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+"I can't afford this item, I try to cancel order {{Order Number}}",cancel_order,"मैं इस आइटम को बर्दाश्त नहीं कर सकता, मैं आदेश {{ऑर्डर नंबर}} को रद्द करने का प्रयास करता हूं",आदेश रद्द
+i dont know how i can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद सकता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I can't pay  for order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} के लिए भुगतान नहीं कर सकता,आदेश रद्द
+I have a problem with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+I have a question about canceling order {{Order Number}},cancel_order,मेरे पास आदेश रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+i need help with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+help me canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+i dont know how to cncel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}} को रद्द करें,आदेश रद्द
+can you help me to cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+i want assistance to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+have a problem with canceling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ एक समस्या है {{आदेश संख्या}},आदेश रद्द
+assistance canceling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+can ya help me cancel purchase {{Order Number}},cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+i need assistance to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i dont want purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीदना नहीं चाहता,आदेश रद्द
+I don't want order {{Order Number}},cancel_order,मुझे आदेश नहीं चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+question about canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+"I purchased some product, cancel order {{Order Number}}",cancel_order,"मैंने कुछ उत्पाद खरीदे, ऑर्डर रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+help canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+have a question abut canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+I can't pay for purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+problems with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+I have to cancel purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करना होगा {{ऑर्डर नंबर}}},आदेश रद्द
+where do I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द करूं?,आदेश रद्द
+what do i have to do to cancel purchase {{Order Number}},cancel_order,खरीद को रद्द करने के लिए मुझे क्या करना है {{ऑर्डर नंबर}},आदेश रद्द
+I don't know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}} को रद्द करें,आदेश रद्द
+where to cancel purchase {{Order Number}}?,cancel_order,खरीदें {{ऑर्डर नंबर}} कहां रद्द करें?,आदेश रद्द
+problem with cancelig order {{Order Number}},cancel_order,रद्द करने के आदेश {{ऑर्डर नंबर}} के साथ समस्या,आदेश रद्द
+problem with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+I need help with canceling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+problems with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+I'm rtying to cancel order {{Order Number}},cancel_order,मैं ऑर्डर {{ऑर्डर नंबर}} को रद्द करने का प्रयास कर रहा हूं,आदेश रद्द
+I need help with cancelling purhase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+"I do not want the item I purchased, can I cancel the order?",cancel_order,"मुझे वह आइटम नहीं चाहिए जो मैंने खरीदा है, क्या मैं ऑर्डर रद्द कर सकता हूं?",आदेश रद्द
+how could I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द कर सकता हूं?,आदेश रद्द
+I need help cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+i need help with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+i want assistance tocancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता चाहता हूं,आदेश रद्द
+problem with canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+I want help canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+i need help with cancelliung order {{Order Number}},cancel_order,मुझे Cancelliung ऑर्डर {{ऑर्डर नंबर}} के साथ मदद चाहिए,आदेश रद्द
+"I bought some items, cancel order {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे, ऑर्डर रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+I need help cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+"I bought something, help me cancel purchasae {{Order Number}}",cancel_order,"मैंने कुछ खरीदा, मुझे खरीदने में मदद करें {{ऑर्डर नंबर}}",आदेश रद्द
+how to cancel the purchase i made,cancel_order,मैंने जो खरीदारी की है उसे कैसे रद्द करें,आदेश रद्द
+i need assistance to cancel order {{Order Number}},cancel_order,मुझे आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता की आवश्यकता है,आदेश रद्द
+i want help to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} को रद्द करने में मदद चाहता हूं,आदेश रद्द
+question about cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+need help canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+how do i cancel order {{Order Number}},cancel_order,मैं ऑर्डर {{ऑर्डर नंबर}} कैसे रद्द करूं,आदेश रद्द
+can  uhelp me canceling order {{Order Number}},cancel_order,क्या आप मुझे आदेश रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+"I have bought some items, cancel order {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे हैं, ऑर्डर रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+where do I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द करूं?,आदेश रद्द
+can you help me cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+can you help me canceling purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+need help with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ मदद की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance cancelling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+i need assistance cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I have got to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए मिला है {{ऑर्डर नंबर}}},आदेश रद्द
+i dont know how i can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद सकता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I would like to cancel purchase {{Order Number}},cancel_order,मैं खरीद {{ऑर्डर नंबर}} को रद्द करना चाहूंगा,आदेश रद्द
+cancel purchase {{Order Number}},cancel_order,खरीदें {{ऑर्डर नंबर}} खरीदें,आदेश रद्द
+help me cancel ordere {{Order Number}},cancel_order,मुझे आदेश रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+i don want order {{Order Number}} I'd like to cancel it,cancel_order,मुझे आदेश नहीं चाहिए {{ऑर्डर नंबर}} मैं इसे रद्द करना चाहूंगा,आदेश रद्द
+I can no longer pay for order {{Order Number}},cancel_order,मैं अब आदेश के लिए भुगतान नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+I can't aford order {{Order Number}},cancel_order,मैं आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+order cancelation,cancel_order,आदेश रद्द करना,आदेश रद्द
+have problems with canceling order  {{Order Number}},cancel_order,ऑर्डर को रद्द करने में समस्याएं {{ऑर्डर नंबर}}},आदेश रद्द
+i have a provlem with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने में समस्या है,आदेश रद्द
+assistance with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+i need help canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+i try to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} रद्द करने का प्रयास करता हूं,आदेश रद्द
+i have to cancel purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करना होगा {{ऑर्डर नंबर}},आदेश रद्द
+I have problems with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+how do I cancel purchae {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द करूं?,आदेश रद्द
+I have a probllem with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+help canceling order {{Order Number}},cancel_order,ऑर्डर रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+"I do not want this article, cancel order {{Order Number}}",cancel_order,"मैं यह लेख नहीं चाहता, आदेश रद्द करें {{आदेश संख्या}}}",आदेश रद्द
+can you help me canceling order {{Order Number}}?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+cancel purchase {{Order Number}},cancel_order,खरीदें {{ऑर्डर नंबर}} खरीदें,आदेश रद्द
+I can no longer pay for purchase {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+I want assistance cancelling order {{Order Number}},cancel_order,मैं सहायता रद्द करने के आदेश को रद्द करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+where could I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+help  me cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+cancel purchase370795561790,cancel_order,खरीदें खरीदें 370795561790,आदेश रद्द
+i need help with canceling orer {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+help canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+"I have gotr to cancel order {{Order Number}}, I need help",cancel_order,"मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने के लिए gotr है, मुझे मदद की ज़रूरत है",आदेश रद्द
+what do I have to do to cancel purchase {{Order Number}}?,cancel_order,खरीद को रद्द करने के लिए मुझे क्या करना होगा {{ऑर्डर नंबर}}?,आदेश रद्द
+question about canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+question about cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+can ya help me cancel order {{Order Number}},cancel_order,क्या आप मुझे आदेश रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+i need help with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I need help to cancel purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+were can i cancel purchase {{Order Number}},cancel_order,क्या मैं खरीद को रद्द कर सकता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+i need help with canceling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+can you help me to cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+I want assistance to cancel order {{Order Number}},cancel_order,मैं आदेश को रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+can uhelp me to cancel purchase {{Order Number}},cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+"I bought some bloody articles, cancel order {{Order Number}}",cancel_order,"मैंने कुछ खूनी लेख खरीदे, आदेश रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+i can no longer afford order {{Order Number}} could i cancel it,cancel_order,मैं अब आदेश नहीं दे सकता {{ऑर्डर नंबर}} क्या मैं इसे रद्द कर सकता हूं,आदेश रद्द
+i need help with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I need help with canxeling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+i dont know how to cncel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}} को रद्द करें,आदेश रद्द
+i need assistance cancelling uprchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+have problems wth canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}}},आदेश रद्द
+i need assistance canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I have a problem with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+would it be possible to cancel purchase {{Order Number}}?,cancel_order,क्या खरीद को रद्द करना संभव होगा {{ऑर्डर नंबर}}?,आदेश रद्द
+i have a problem with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+"I no longer want order {{Order Number}}, I would like to cancel it",cancel_order,"मैं अब आदेश {{ऑर्डर नंबर}} नहीं चाहता, मैं इसे रद्द करना चाहूंगा",आदेश रद्द
+needassistance cancelling purchase {{Order Number}},cancel_order,NEENSESSISTANCE रद्द करना {{ऑर्डर नंबर}},आदेश रद्द
+need assistance to cancel orer {{Order Number}},cancel_order,आदेश को रद्द करने के लिए सहायता की आवश्यकता है {{आदेश संख्या}},आदेश रद्द
+i want assisgance cancelling order {{Order Number}},cancel_order,मैं चाहता हूं कि Assisgance रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+"I can't afford purchase {{Order Number}}, could you cancel it?",cancel_order,"मैं खरीद नहीं सकता {{ऑर्डर नंबर}}, क्या आप इसे रद्द कर सकते हैं?",आदेश रद्द
+I need help with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cancel purchase {{Order Number}}?,cancel_order,क्या खरीद को रद्द करना संभव है {{ऑर्डर नंबर}}?,आदेश रद्द
+could you help me cancelling purchase {{Order Number}}?,cancel_order,क्या आप खरीदारी को रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+cancel purchase00123842,cancel_order,खरीदें 00123842,आदेश रद्द
+where can I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+where could I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+I do not know how I can cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि मैं ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द कर सकता हूं,आदेश रद्द
+assistance with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+can you help me canceling purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+cancel purchase  {{Order Number}},cancel_order,खरीदें {{ऑर्डर नंबर}},आदेश रद्द
+where can I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+i try to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने का प्रयास करता हूं {{ऑर्डर नंबर}},आदेश रद्द
+i dont knwo how i can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं {{ऑर्डर नंबर}} खरीद को कैसे रद्द कर सकता हूं,आदेश रद्द
+cancelling purchase {{Order Number}},cancel_order,रद्द करना {{ऑर्डर नंबर}}},आदेश रद्द
+i want help cancelling order {{Order Number}},cancel_order,मैं आदेश रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I can't pay for purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+can uhelp me cancelling purchazse {{Order Number}},cancel_order,क्या आप मुझे खरीद रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+questionn about canceling order {{Order Number}},cancel_order,आदेश रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+I am trying to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की कोशिश कर रहा हूं {{ऑर्डर नंबर}}},आदेश रद्द
+cancel purchase113542617735902,cancel_order,खरीदें 113542617735902,आदेश रद्द
+i do not know how i can cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि मैं ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द कर सकता हूं,आदेश रद्द
+I have a proble with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+"I do not want this item, cancel order {{Order Number}}",cancel_order,"मुझे यह आइटम नहीं चाहिए, आदेश रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+help me to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}}},आदेश रद्द
+i dont know how i can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद सकता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+how could I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द कर सकता हूं?,आदेश रद्द
+assistance to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने के लिए सहायता {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+need assistance cancelling purchase {{Order Number}},cancel_order,खरीद को रद्द करने की आवश्यकता है {{ऑर्डर नंबर}}},आदेश रद्द
+I have problems with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+can uhelp me cancelling order {{Order Number}},cancel_order,क्या आप मुझे आदेश रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+i cannot pay for these product how do i cancel the order,cancel_order,"मैं इन उत्पादों के लिए भुगतान नहीं कर सकता, मैं आदेश कैसे रद्द करूं",आदेश रद्द
+"I have bought some item, I have to cancel order {{Order Number}}",cancel_order,"मैंने कुछ आइटम खरीदे हैं, मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करना होगा",आदेश रद्द
+assistance cancelling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+need assistance cancelling order {{Order Number}},cancel_order,सहायता रद्द करने की आवश्यकता है आदेश {{आदेश संख्या}},आदेश रद्द
+I am trying to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की कोशिश कर रहा हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I need assistance tocancel order {{Order Number}},cancel_order,मुझे आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता की आवश्यकता है,आदेश रद्द
+can uhelp me canceling purchase {{Order Number}},cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+could you help me to cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+i have a question about  canceling order {{Order Number}},cancel_order,मेरे पास आदेश रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+I need to cancel order {{Order Number}},cancel_order,मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने की आवश्यकता है,आदेश रद्द
+can you help me  cancelling purchase {{Order Number}}?,cancel_order,क्या आप खरीदारी को रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+need help to cancel purchase {{Order Number}},cancel_order,खरीद को रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+assistance with canceling order {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+where do i cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} कहां रद्द करूं,आदेश रद्द
+I want to cancel purchase {{Order Number}},cancel_order,मैं खरीद {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+can ya help me cancel purchzse {{Order Number}},cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+can uhelp me to cancel purchase {{Order Number}},cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+I do not know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने का तरीका {{ऑर्डर नंबर}},आदेश रद्द
+can you help me canceling purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+assistance cancelling order {{Order Number}},cancel_order,सहायता रद्द करने का आदेश {{ऑर्डर नंबर}},आदेश रद्द
+where could I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द कर सकता हूं?,आदेश रद्द
+can uhelp me cancelling purchase {{Order Number}},cancel_order,क्या मुझे खरीद रद्द कर सकते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+"I purchased some damn product, help me cancel order {{Order Number}}",cancel_order,"मैंने कुछ लानत उत्पाद खरीदे, मुझे आदेश रद्द करने में मदद करें {{ऑर्डर नंबर}}",आदेश रद्द
+"I ordered some article, cancel purchase {{Order Number}}",cancel_order,"मैंने कुछ लेख का आदेश दिया, खरीद रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+I have a problem with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+assistance to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने के लिए सहायता {{ऑर्डर नंबर}},आदेश रद्द
+where do I cancel order {{Order Number}}?,cancel_order,मैं आदेश {{ऑर्डर नंबर}} कहां रद्द करूं?,आदेश रद्द
+cancelling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+i need assistance to cancel order {{Order Number}},cancel_order,मुझे आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता की आवश्यकता है,आदेश रद्द
+help canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I want help to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} को रद्द करने में मदद चाहता हूं,आदेश रद्द
+I cannot pay for purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+how could I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द कर सकता हूं?,आदेश रद्द
+where do I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द करूं?,आदेश रद्द
+I can't afford purchase {{Order Number}},cancel_order,मैं खरीद नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+I want help cancelling purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने में मदद करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cxancel order {{Order Number}},cancel_order,क्या आदेश {{ऑर्डर नंबर}} को रद्द करना संभव है,आदेश रद्द
+I have problems with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+can ya help me cancel purchase {{Order Number}},cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+I'm trying to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने की कोशिश कर रहा हूं {{ऑर्डर नंबर}},आदेश रद्द
+i dont wat order {{Order Number}} cancel it,cancel_order,मैं ऑर्डर नहीं खाता {{ऑर्डर नंबर}} इसे रद्द करें,आदेश रद्द
+canceling purchase {{Order Number}},cancel_order,खरीद रद्द करें {{ऑर्डर नंबर}},आदेश रद्द
+is it possible to cancel purchase {{Order Number}}?,cancel_order,क्या खरीद को रद्द करना संभव है {{ऑर्डर नंबर}}?,आदेश रद्द
+where to cancel purchase {{Order Number}}?,cancel_order,खरीदें {{ऑर्डर नंबर}} कहां रद्द करें?,आदेश रद्द
+i want help to cancel order {{Order Number}},cancel_order,मैं आदेश {{ऑर्डर नंबर}} को रद्द करने में मदद चाहता हूं,आदेश रद्द
+i do not know how i can canmcel order {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे ऑर्डर कर सकता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+problems with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance to cancel order {{Order Number}},cancel_order,मुझे आदेश {{ऑर्डर नंबर}} रद्द करने के लिए सहायता की आवश्यकता है,आदेश रद्द
+I have a problem with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+help with cancelling purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+question about canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+i want help canceling order {{Order Number}},cancel_order,मैं आदेश रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I am trying to cancel purchaes {{Order Number}},cancel_order,मैं खरीद रद्द करने की कोशिश कर रहा हूं {{ऑर्डर नंबर}}},आदेश रद्द
+need assistance with canceling order {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+want help to cancel purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करना चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+I cannot afford purchase {{Order Number}},cancel_order,मैं खरीद नहीं कर सकता {{ऑर्डर नंबर}}},आदेश रद्द
+i dont know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}},आदेश रद्द
+i dont know how i can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं कैसे खरीद सकता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I have problems with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+I don't know what to do to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने के लिए क्या करना है {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+can uhelp me canceling purchase {{Order Number}},cancel_order,क्या आप मुझे खरीदने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+i dont want oredr {{Order Number}},cancel_order,मुझे आदेश नहीं चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+I want help canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+I do not know how I ca cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि मैं ऑर्डर {{ऑर्डर नंबर}} को कैसे रद्द कर सकता हूं,आदेश रद्द
+assistance with canceling order {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ सहायता {{ऑर्डर नंबर}},आदेश रद्द
+canmcel order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+help me cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I want help canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+can you help me camceling the purchase I made?,cancel_order,क्या आप मेरे द्वारा की गई खरीदारी को कैमसेल करने में मदद कर सकते हैं?,आदेश रद्द
+could you help me cancelling purchase {{Order Number}}?,cancel_order,क्या आप खरीदारी को रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+can uhelp me cancelliung order {{Order Number}},cancel_order,क्या आप मुझे आदेश रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}},आदेश रद्द
+need assistance to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने के लिए सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I want help to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+help me to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}}},आदेश रद्द
+i cannot poay for purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+have a problem with cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ एक समस्या है {{आदेश संख्या}},आदेश रद्द
+i need help canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+would it be possible to cancel purchase {{Order Number}}?,cancel_order,क्या खरीद को रद्द करना संभव होगा {{ऑर्डर नंबर}}?,आदेश रद्द
+I no longer want purchase {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदना नहीं चाहता,आदेश रद्द
+Iwant assistance canceling order {{Order Number}},cancel_order,Iwant सहायता रद्द करने के आदेश {{आदेश संख्या}},आदेश रद्द
+could you help me to cancel purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+I want assistance canceling purchyase {{Order Number}},cancel_order,मैं सहायता रद्द करना चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+cancelling purchase {{Order Number}},cancel_order,रद्द करना {{ऑर्डर नंबर}}},आदेश रद्द
+I need help with cancellng order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+where do I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कहां रद्द करूं?,आदेश रद्द
+"I have got to cancel purchase {{Order Number}}, help me",cancel_order,"मुझे खरीद रद्द करने के लिए {{ऑर्डर नंबर}}, मेरी मदद करें",आदेश रद्द
+could you help me canceling purchase {{Order Number}}?,cancel_order,क्या आप खरीदारी को रद्द करने में मदद कर सकते हैं {{ऑर्डर नंबर}}?,आदेश रद्द
+I have problems with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I do not knwo what I need to do to cancel order {{Order Number}},cancel_order,मुझे नहीं पता कि मुझे आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए क्या करना है,आदेश रद्द
+can uhelp me cancelling purchase {{Order Number}},cancel_order,क्या मुझे खरीद रद्द कर सकते हैं {{ऑर्डर नंबर}}},आदेश रद्द
+can you help me canceling purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+i cannot afford purchase {{Order Number}},cancel_order,मैं खरीद नहीं कर सकता {{ऑर्डर नंबर}}},आदेश रद्द
+I no longer want order {{Order Number}},cancel_order,मैं अब आदेश {{ऑर्डर नंबर}} नहीं चाहता,आदेश रद्द
+help me cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+help canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance canceling ordr {{Order Number}},cancel_order,मुझे ordr {{ऑर्डर नंबर}} को रद्द करने में सहायता की आवश्यकता है,आदेश रद्द
+I do not know what to do to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने के लिए क्या करना है {{ऑर्डर नंबर}},आदेश रद्द
+need assistance withcanceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+can you help me cancelling purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+I don't know how I can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं {{ऑर्डर नंबर}} खरीद को कैसे रद्द कर सकता हूं,आदेश रद्द
+i do not know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने का तरीका {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance cancelling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+how to cancel purchase {{Order Number}}?,cancel_order,खरीदें {{ऑर्डर नंबर}} कैसे रद्द करें?,आदेश रद्द
+question about cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+can you help me cancelling the bloody purchase I made?,cancel_order,क्या आप मेरे द्वारा की गई खूनी खरीद को रद्द करने में मेरी मदद कर सकते हैं?,आदेश रद्द
+I want help cancelling order {{Order Number}},cancel_order,मैं आदेश रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+"I can no longer afford order {{Order Number}}, cancel it",cancel_order,"मैं अब आदेश {{ऑर्डर नंबर}} को बर्दाश्त नहीं कर सकता, इसे रद्द करें",आदेश रद्द
+i bought some product help me canceling order {{Order Number}},cancel_order,"मैंने कुछ उत्पाद खरीदे, मुझे आदेश रद्द करने में मदद करें {{ऑर्डर नंबर}}}",आदेश रद्द
+can you help me to cancel order {{Order Number}} ?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+ihave bought some damn product cancel order {{Order Number}},cancel_order,मैंने कुछ लानत उत्पाद रद्द ऑर्डर {{ऑर्डर नंबर}} खरीदा है,आदेश रद्द
+i have a question about cancelling order {{Order Number}},cancel_order,मेरे पास ऑर्डर रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+I need help canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+question about cancellung purchase {{Order Number}},cancel_order,खरीद रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+i need assistance with canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+i need help canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+I cannot afford purchase {{Order Number}},cancel_order,मैं खरीद नहीं कर सकता {{ऑर्डर नंबर}}},आदेश रद्द
+I want assistance to cancle purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+cancel purchase00004587345,cancel_order,खरीदें 00004587345,आदेश रद्द
+how to cancel order {{Order Number}}?,cancel_order,ऑर्डर {{ऑर्डर नंबर}} कैसे रद्द करें?,आदेश रद्द
+i want help to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+problems with cnceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+I want help to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+can you help me canceling purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+I don't know how I can cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि मैं {{ऑर्डर नंबर}} खरीद को कैसे रद्द कर सकता हूं,आदेश रद्द
+can you help me cancelling purchase {{Order Number}}?,cancel_order,क्या आप मुझे {{ऑर्डर नंबर}} खरीदने में मदद कर सकते हैं?,आदेश रद्द
+problem with cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+i dont want this order cancel purchase {{Order Number}},cancel_order,मैं नहीं चाहता कि यह ऑर्डर रद्द करें खरीदें {{ऑर्डर नंबर}},आदेश रद्द
+need ot cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने की आवश्यकता है {{ऑर्डर नंबर}}},आदेश रद्द
+I can no longer afford order {{Order Number}},cancel_order,मैं अब आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+want help canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करना चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+"I ordered some items, need help cancelling the last purchase",cancel_order,"मैंने कुछ वस्तुओं का आदेश दिया, अंतिम खरीद को रद्द करने में सहायता की आवश्यकता है",आदेश रद्द
+I need help with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+iwant assistance canceling order {{Order Number}},cancel_order,iwant सहायता रद्द करने के आदेश {{आदेश संख्या}},आदेश रद्द
+help me canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}},आदेश रद्द
+i can no longer afford purchase {{Order Number}},cancel_order,मैं अब खरीदारी नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+want help cancelling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करना चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+I can no longer pay for order {{Order Number}},cancel_order,मैं अब आदेश के लिए भुगतान नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+I need help to cancel purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+help to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने में सहायता {{ऑर्डर नंबर}},आदेश रद्द
+prfoblems with cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}},आदेश रद्द
+whag do i need to do to cancel order {{Order Number}},cancel_order,आदेश {{ऑर्डर नंबर}} को रद्द करने के लिए मुझे क्या करने की आवश्यकता है,आदेश रद्द
+needassistance cancelling purchase {{Order Number}},cancel_order,NEENSESSISTANCE रद्द करना {{ऑर्डर नंबर}},आदेश रद्द
+help to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने में सहायता {{ऑर्डर नंबर}},आदेश रद्द
+I canno longer afford purchase {{Order Number}},cancel_order,मैं अब खरीदारी नहीं कर सकता {{ऑर्डर नंबर}}},आदेश रद्द
+I can no longer pay for order {{Order Number}},cancel_order,मैं अब आदेश के लिए भुगतान नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+I do not know what to do to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि खरीद को रद्द करने के लिए क्या करना है {{ऑर्डर नंबर}},आदेश रद्द
+i need assistance cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I can no longer afford order {{Order Number}},cancel_order,मैं अब आदेश नहीं दे सकता {{ऑर्डर नंबर}},आदेश रद्द
+want help to cancel purchase {{Order Number}},cancel_order,खरीद को रद्द करने में मदद करना चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+"I can no longer afford purchase {{Order Number}}, cancel it",cancel_order,"मैं अब खरीद नहीं कर सकता {{ऑर्डर नंबर}}, इसे रद्द करें",आदेश रद्द
+I need assistance to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I want to cancel purchase {{Order Number}},cancel_order,मैं खरीद {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+need help with cfanceling order {{Order Number}},cancel_order,cfanceling आदेश {{ऑर्डर नंबर}} के साथ मदद चाहिए,आदेश रद्द
+cancel order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+I can no longer afford purchase {{Order Number}},cancel_order,मैं अब खरीदारी नहीं कर सकता {{ऑर्डर नंबर}}},आदेश रद्द
+I don't know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}} को रद्द करें,आदेश रद्द
+have a question about canceling order {{Order Number}},cancel_order,आदेश रद्द करने के बारे में एक प्रश्न है {{ऑर्डर नंबर}},आदेश रद्द
+i can no longer pay for order {{Order Number}},cancel_order,मैं अब आदेश के लिए भुगतान नहीं कर सकता {{ऑर्डर नंबर}},आदेश रद्द
+order cancellation,cancel_order,आदेश रद्द करना,आदेश रद्द
+have a problem with cancelling order {{Order Number}},cancel_order,आदेश रद्द करने के साथ एक समस्या है {{आदेश संख्या}},आदेश रद्द
+I have a problem with canceling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+i want assistance cancelling order {{Order Number}},cancel_order,मैं सहायता रद्द करने के आदेश को रद्द करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+need assistance canceling order {{Order Number}},cancel_order,आदेश रद्द करने की आवश्यकता है आदेश {{आदेश संख्या}}},आदेश रद्द
+I need help with canceling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+want help canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने में मदद करना चाहते हैं {{ऑर्डर नंबर}},आदेश रद्द
+need assistance cancelinv purchase {{Order Number}},cancel_order,सहायता की आवश्यकता है रद्द करें {{ऑर्डर नंबर}} खरीदारी करें,आदेश रद्द
+cancel purchase  {{Order Number}},cancel_order,खरीदें {{ऑर्डर नंबर}},आदेश रद्द
+I need assistance with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने के साथ सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I need help canceling order {{Order Number}},cancel_order,मुझे ऑर्डर रद्द करने में मदद चाहिए {{ऑर्डर नंबर}}},आदेश रद्द
+problem with canceling order {{Order Number}},cancel_order,ऑर्डर रद्द करने के साथ समस्या {{ऑर्डर नंबर}},आदेश रद्द
+need help cancelling order {{Order Number}},cancel_order,आदेश रद्द करने में सहायता की आवश्यकता है {{आदेश संख्या}},आदेश रद्द
+I can't pay for purchase {{Order Number}},cancel_order,मैं {{ऑर्डर नंबर}} खरीदने के लिए भुगतान नहीं कर सकता,आदेश रद्द
+question about canceling order {{Order Number}},cancel_order,आदेश रद्द करने के बारे में प्रश्न {{ऑर्डर नंबर}},आदेश रद्द
+assistance canceling purchase {{Order Number}},cancel_order,सहायता रद्द खरीद {{ऑर्डर नंबर}},आदेश रद्द
+cancel order {{Order Number}},cancel_order,रद्द करें आदेश {{ऑर्डर नंबर}},आदेश रद्द
+help me to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में मदद करें {{ऑर्डर नंबर}}},आदेश रद्द
+have problems wth canceling purchase {{Order Number}},cancel_order,खरीद रद्द करने के साथ समस्याएं {{ऑर्डर नंबर}}},आदेश रद्द
+I want assistance to cancel purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने के लिए सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I don't know how to cancel purchase {{Order Number}},cancel_order,मुझे नहीं पता कि कैसे खरीदें {{ऑर्डर नंबर}} को रद्द करें,आदेश रद्द
+i have a problem with cancelling order {{Order Number}},cancel_order,मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने में समस्या है,आदेश रद्द
+i want help canceling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने में मदद चाहता हूं {{ऑर्डर नंबर}}},आदेश रद्द
+want assistance canceling order {{Order Number}},cancel_order,सहायता रद्द करना चाहते हैं आदेश {{ऑर्डर नंबर}},आदेश रद्द
+I have problems with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+how do I cancel purchase {{Order Number}}?,cancel_order,मैं खरीद {{ऑर्डर नंबर}} कैसे रद्द करूं?,आदेश रद्द
+need help with cancelliing order {{Order Number}},cancel_order,Cancelliing ऑर्डर {{ऑर्डर नंबर}} के साथ मदद चाहिए,आदेश रद्द
+have problems with cancelling purchase {{Order Number}},cancel_order,खरीद को रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+"I cannot afford this article, cancel order {{Order Number}}",cancel_order,"मैं इस लेख को बर्दाश्त नहीं कर सकता, आदेश रद्द करें {{ऑर्डर नंबर}}",आदेश रद्द
+I no longer want purchase {{Order Number}},cancel_order,मैं अब {{ऑर्डर नंबर}} खरीदना नहीं चाहता,आदेश रद्द
+I have got to cancel purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने के लिए मिला है {{ऑर्डर नंबर}}},आदेश रद्द
+i have problems with  cancelling purchase {{Order Number}},cancel_order,मुझे खरीद रद्द करने में समस्या है {{ऑर्डर नंबर}},आदेश रद्द
+canceling order {{Order Number}},cancel_order,रद्द करना आदेश {{ऑर्डर नंबर}},आदेश रद्द
+need assistance to cancel orer {{Order Number}},cancel_order,आदेश को रद्द करने के लिए सहायता की आवश्यकता है {{आदेश संख्या}},आदेश रद्द
+assistance to cancel purchase {{Order Number}},cancel_order,खरीद रद्द करने के लिए सहायता {{ऑर्डर नंबर}},आदेश रद्द
+I have got to cancel order {{Order Number}},cancel_order,मुझे ऑर्डर {{ऑर्डर नंबर}} रद्द करने के लिए मिला है,आदेश रद्द
+I need help with cancelling purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में मदद चाहिए {{ऑर्डर नंबर}},आदेश रद्द
+"I no longer want purchase {{Order Number}}, can you cancel it?",cancel_order,"मैं अब {{ऑर्डर नंबर}} खरीदना नहीं चाहता, क्या आप इसे रद्द कर सकते हैं?",आदेश रद्द
+can you help me to cancel order {{Order Number}}?,cancel_order,क्या आप मुझे आदेश {{ऑर्डर नंबर}} रद्द करने में मदद कर सकते हैं?,आदेश रद्द
+cancel order,cancel_order,आदेश रद्द,आदेश रद्द
+"I can't afford purchase {{Order Number}}, I need help canceling it",cancel_order,"मैं खरीद नहीं कर सकता {{ऑर्डर नंबर}}, मुझे इसे रद्द करने में मदद चाहिए",आदेश रद्द
+I need help to cancel purchase {{Order Number}},cancel_order,मुझे खरीद को रद्द करने में सहायता की आवश्यकता है {{ऑर्डर नंबर}},आदेश रद्द
+I want help to cancel purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने के लिए {{ऑर्डर नंबर}} को रद्द करना चाहता हूं,आदेश रद्द
+how to cancel purchase {{Order Number}}?,cancel_order,खरीदें {{ऑर्डर नंबर}} कैसे रद्द करें?,आदेश रद्द
+I want help cancellkng purchase {{Order Number}},cancel_order,मैं खरीद को रद्द करने में मदद करना चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I want assistance cancelling purchase {{Order Number}},cancel_order,मैं खरीद रद्द करने की सहायता चाहता हूं {{ऑर्डर नंबर}},आदेश रद्द
+I try to change several bloody items of order {{Order Number}},change_order,मैं आदेश के कई खूनी वस्तुओं को बदलने की कोशिश करता हूं {{ऑर्डर नंबर}},आदेश बदलो
+modifying purchase {{Order Number}},change_order,खरीद {{ऑर्डर नंबर}} को संशोधित करना,आदेश बदलो

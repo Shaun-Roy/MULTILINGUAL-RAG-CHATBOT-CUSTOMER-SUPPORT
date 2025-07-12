@@ -1,0 +1,9 @@
+flask
+pinecone 
+sentence-transformers 
+scikit-learn 
+langid 
+python-dotenv 
+googletrans==3.1.0a0 
+requests
+sarvamai 
