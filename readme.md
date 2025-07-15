@@ -17,6 +17,20 @@ This project develops a **multilingual Retrieval Augmented Generation (RAG) chat
 * **Pre-trained Models**: Includes pre-trained logistic regression models for language-specific intent classification.
 
 ---
+## Screenshots
+
+Here you can add screenshots of the chatbot in action. This helps users quickly understand the UI and functionality.
+
+| Chat Interface (English) | Chat Interface (Hindi) |
+| :----------------------- | :--------------------- |
+| ![English Chatbot Screenshot](english_convo.png) | ![Hindi Chatbot Screenshot](hindi_convo_ss.png) |
+| *Example of an English interaction* | *Example of a Hindi interaction* |
+
+| Terminal (English) | Terminal (Hindi) |
+| :----------------------- | :--------------------- |
+| ![English Chatbot Screenshot](terminal_english_ss.png) | ![Hindi Chatbot Screenshot](terminal_hindi_ss.png) |
+| *Example of an English interaction* | *Example of a Hindi interaction* |
+---
 
 ## Technologies Used
 
@@ -96,5 +110,3 @@ Follow these steps to set up and run the multilingual RAG chatbot.
     You can now interact with the multilingual chatbot by typing your queries in either English or Hindi.
 
 ---
-
-## File Structure
